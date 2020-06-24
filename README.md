@@ -5,3 +5,4 @@ Also a basic bank churn example is included using SVM(support vector machine) wh
 leaves the bank.
 It also contains the emotion deection classifier implemented on the images. The model classifies whether the image belongs to either 
 class "surprised" or "happy".
+It also contains analysis on text data andn classification of text data.
